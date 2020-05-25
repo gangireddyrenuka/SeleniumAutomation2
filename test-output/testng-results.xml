@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18784" started-at="2020-05-24T13:22:38Z" finished-at="2020-05-24T13:22:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18784" started-at="2020-05-24T13:22:38Z" finished-at="2020-05-24T13:22:57Z">
+      <class name="loginPage.LoginPageExample">
+        <test-method status="PASS" signature="browser()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="browser" is-config="true" duration-ms="14514" started-at="2020-05-24T18:52:38Z" finished-at="2020-05-24T18:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="loginpage" duration-ms="1861" started-at="2020-05-24T18:52:53Z" finished-at="2020-05-24T18:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="closeBrowser" is-config="true" duration-ms="2365" started-at="2020-05-24T18:52:55Z" finished-at="2020-05-24T18:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- loginPage.LoginPageExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
