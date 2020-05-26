@@ -6,6 +6,7 @@
       <class name="loginPage.LoginPageExample">
         <methods>
           <include name="loginpage"/>
+          <include name="closeBrowser"/>
           <include name="browser"/>
         </methods>
       </class> <!-- loginPage.LoginPageExample -->

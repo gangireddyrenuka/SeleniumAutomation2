@@ -1,0 +1,4 @@
+loginPage\LoginPageExample.class
+loginPage\Locators.class
+loginPage\ComonMethods.class
+loginPage\TestBase.class
