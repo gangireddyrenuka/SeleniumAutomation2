@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19653" started-at="2020-05-26T02:12:38Z" finished-at="2020-05-26T02:12:58Z">
+  <suite name="Default suite" duration-ms="34740" started-at="2020-05-31T07:00:16Z" finished-at="2020-05-31T07:00:51Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19653" started-at="2020-05-26T02:12:38Z" finished-at="2020-05-26T02:12:58Z">
+    <test name="Default test" duration-ms="34740" started-at="2020-05-31T07:00:16Z" finished-at="2020-05-31T07:00:51Z">
       <class name="loginPage.LoginPageExample">
-        <test-method status="PASS" signature="browser()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="browser" is-config="true" duration-ms="12904" started-at="2020-05-26T07:42:38Z" finished-at="2020-05-26T07:42:51Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="browser" is-config="true" duration-ms="31945" started-at="2020-05-31T12:30:16Z" finished-at="2020-05-31T12:30:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="loginpage()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="loginpage" duration-ms="4511" started-at="2020-05-26T07:42:51Z" finished-at="2020-05-26T07:42:56Z">
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="loginpage" duration-ms="2400" started-at="2020-05-31T12:30:48Z" finished-at="2020-05-31T12:30:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="closeBrowser" is-config="true" duration-ms="2202" started-at="2020-05-26T07:42:56Z" finished-at="2020-05-26T07:42:58Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:loginPage.LoginPageExample@1774679]" name="closeBrowser" is-config="true" duration-ms="355" started-at="2020-05-31T12:30:50Z" finished-at="2020-05-31T12:30:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
