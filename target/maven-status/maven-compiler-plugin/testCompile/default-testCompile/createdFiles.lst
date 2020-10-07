@@ -1,4 +1,8 @@
-loginPage\LoginPageExample.class
+gmailAutomation\LoginGmail.class
+gmailAutomation\TestBaseClass.class
 loginPage\Locators.class
 loginPage\ComonMethods.class
+gmailAutomation\GmailLocaters.class
 loginPage\TestBase.class
+loginPage\LoginPageExample.class
+gmailAutomation\GmailCommonMethods.class

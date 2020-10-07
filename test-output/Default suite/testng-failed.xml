@@ -3,13 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="loginPage.LoginPageExample">
+      <class name="gmailAutomation.LoginGmail">
         <methods>
-          <include name="loginpage"/>
-          <include name="closeBrowser"/>
+          <include name="NewAccount"/>
+          <include name="SentMail"/>
           <include name="browser"/>
+          <include name="DeleteInbox"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- loginPage.LoginPageExample -->
+      </class> <!-- gmailAutomation.LoginGmail -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
